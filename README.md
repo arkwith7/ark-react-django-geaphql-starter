@@ -1,4 +1,4 @@
-# 아크위드 스타터 템픞리트(Arkwith react-django-graphql-startter)
+# 아크위드 React, Python Django-Graphene Starter Template
 
 React, Django, GraphQL(Graphene) 및 Ant Design을 사용한 Fullstact개발을 위한 간단한 템플리트입니다. 백엔드는 GraphQL API로 연결되고, 프런트엔드는 사용자 인터페이스를 React와 Ant Design을 이용해서 구현하였습니다.
 
