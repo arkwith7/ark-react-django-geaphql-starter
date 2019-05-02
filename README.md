@@ -4,11 +4,10 @@ React, Django, GraphQL(Graphene) 및 Ant Design을 사용한 Fullstact개발을 
 
 #### 관련 기슬 참조 링크
 
-* Python Django에 대한 설명입니다. (공식 Django 튜토리얼을 확인하십시오.) (https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
-* [GraphQL?] (https://www.howtographql.com/basics/0-introduction/)
-* Graphene은 "Python으로 GraphQL API를 구축하기위한 프레임 워크"입니다.
-* [Here] (https://reactjs.org/tutorial/tutorial.html)에서 React에 대한 자세한 내용을 확인 할 수 있습니다.
-* [Ant Design documentation] (https://ant.design/docs/react/introduce) 
+* [Python Django](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)에 대한 설명입니다. (공식 Django 튜토리얼을 확인하십시오.)
+* Django에서 [GraphQL](https://www.howtographql.com/basics/0-introduction/) 활용을 위한 Graphene은 "Python으로 GraphQL API를 구축하기위한 프레임 워크"입니다.
+* [React](https://reactjs.org/tutorial/tutorial.html)에 대한 자세한 내용을 확인 할 수 있습니다.
+* [Ant Design documentation](https://ant.design/docs/react/introduce) 
 
 ## 설치환경 및 실행방법
 
