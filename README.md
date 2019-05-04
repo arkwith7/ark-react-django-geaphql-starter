@@ -76,6 +76,6 @@ To create a production build, use yarn build.
 #### 관련 기슬 참조 링크
 
 * 백엔드 서버의 기능 개발에 활용하는 [Python Django](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
-* Rest API와 다른 GraphQL API를 개발 하기위한 [GraphQL](https://www.howtographql.com/basics/0-introduction/).
+* Restfull API와 다른 서버 API를 개발 하기위한 [GraphQL](https://www.howtographql.com/basics/0-introduction/).
 * Python으로 백엔드 API서버 개발에 GraphQL이용 GraphQL API를 구축하기위한 프레임 워크인 [Graphene-Django](https://docs.graphene-python.org/projects/django/en/latest/).
 * 프런트엔드의 다양한 사용자 화면 개발을 위한 [React](https://reactjs.org/tutorial/tutorial.html)와 [Ant Design documentation](https://ant.design/docs/react/introduce). 
