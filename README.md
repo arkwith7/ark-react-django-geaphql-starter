@@ -2,13 +2,6 @@
 
 React, Django, GraphQL(Graphene) 및 Ant Design을 사용한 Fullstact개발을 위한 간단한 템플리트입니다. 백엔드는 GraphQL API로 연결되고, 프런트엔드는 사용자 인터페이스를 React와 Ant Design을 이용해서 구현하였습니다.
 
-#### 관련 기슬 참조 링크
-
-* [Python Django](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)에 대한 설명입니다. (공식 Django 튜토리얼을 확인하십시오.)
-* Django에서 [GraphQL](https://www.howtographql.com/basics/0-introduction/) 활용을 위한 Graphene은 "Python으로 GraphQL API를 구축하기위한 프레임 워크"입니다.
-* [React](https://reactjs.org/tutorial/tutorial.html)에 대한 자세한 내용을 확인 할 수 있습니다.
-* [Ant Design documentation](https://ant.design/docs/react/introduce) 
-
 ## 설치환경 및 실행방법
 
 ### 설치환경
@@ -80,3 +73,9 @@ To create a production build, use yarn build.
 ```
 이상과 같이 실행되며 기본 브라우져로 설정된 브라우져에서 자동으로 실행되며 첫 화면이 나타나게 됩니다.
 
+#### 관련 기슬 참조 링크
+
+* 백엔드 서버의 기능 개발에 활용하는 [Python Django](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
+* Rest API와 다른 GraphQL API를 개발 하기위한 [GraphQL](https://www.howtographql.com/basics/0-introduction/).
+* Python으로 백엔드 API서버 개발에 GraphQL이용 GraphQL API를 구축하기위한 프레임 워크인 [Graphene-Django](https://docs.graphene-python.org/projects/django/en/latest/).
+* 프런트엔드의 다양한 사용자 화면 개발을 위한 [React](https://reactjs.org/tutorial/tutorial.html)와 [Ant Design documentation](https://ant.design/docs/react/introduce). 
